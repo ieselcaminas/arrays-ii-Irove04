@@ -17,7 +17,6 @@ public class Eliminar {
             int[] numeros = {1, 2, 3, 4, 5};
             int indice = 2;
 
-
                 System.out.println(Arrays.toString(eliminarNumero(numeros, indice)));
 
             }
